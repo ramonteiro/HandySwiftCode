@@ -8,5 +8,5 @@
 ## Usage
 - See ContentView.swift with a sample usage. 
 
-![](https://github.com/ramonteiro/SwiftViews/DarkmodeToggleView/toggle.gif)
+![](https://github.com/ramonteiro/SwiftViews/blob/master/DarkmodeToggleView/toggle.gif)
 
