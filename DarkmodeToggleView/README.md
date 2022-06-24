@@ -1,6 +1,12 @@
-*Dark Mode Toggle View*
+# Dark Mode Toggle View
 
-- Set dark mode/light mode with a simple toggle (and a single code line).
+## General
+- Set dark mode/light mode with a simple toggle (and a single code line)
 - Framework: SwiftUI
 - OS: tested only on iOS/iPadOS 13.*
+
+## Usage
+- See ContentView.swift with a sample usage. 
+
+![](https://github.com/ramonteiro/SwiftViews/DarkmodeToggleView/toggle.gif)
 
