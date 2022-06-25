@@ -1,7 +1,8 @@
 # Swift Views
 
 ## General
-- Here we have some views for implementations
+- Here we have some views for using in your apps (iOS, macOS, tvOS, etc)
+- Language: Swift
 - Framework: SwiftUI or UIKit
 
 ## Usage
