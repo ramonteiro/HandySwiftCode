@@ -1,12 +1,10 @@
-# Custom Button
+# Swift Views
 
 ## General
-- Add a stardard large button inside your apps views.
-- Framework: SwiftUI
-- OS: tested only on iOS/iPadOS 13.*
+- Here we have some views for implementations
+- Framework: SwiftUI or UIKit
 
 ## Usage
-- See ContentView.swift with a sample usage. 
+- Open view's folder, check its gif preview with a sample implementation.
 
-![](https://github.com/ramonteiro/SwiftViews/blob/master/CustomButton/button.gif)
 
